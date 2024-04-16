@@ -4,7 +4,7 @@ Welcome to my ASP.NET Core MVC portfolio! This repository showcases my projects 
 
 ## About Me
 
-Hello I'm Ely, I have made an API and an e-commerce Website usingASP.NET Core MVC.
+Hello I'm Ely, I have made an API and an e-commerce Website using ASP.NET Core MVC.
 
 ## Projects
 
